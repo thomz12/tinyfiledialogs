@@ -1,4 +1,4 @@
-# NOTE: This is not the original tiny foile dialogs
+# NOTE: This is not the original tiny file dialogs
 # Original can be found here: https://sourceforge.net/projects/tinyfiledialogs/
 This is used for my personal projects
 
